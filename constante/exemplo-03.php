@@ -1,0 +1,13 @@
+<?php
+
+echo PHP_VERSION;// VERIFICAR A VERSÃO DO PHP INSTALADO
+
+ECHO "<br>";
+
+
+
+echo DIRECTORY_SEPARATOR;
+
+
+
+?>
